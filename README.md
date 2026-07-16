@@ -6,10 +6,11 @@ at **MTN Nigeria Communications**. This repository showcases hands-on experience
 building scalable, production-ready backend architectures, managing high-throughput data
 flows, and implementing modern AI tools within a corporate telecommunications context. ---
 
-##🛠️ Core Tech Stack & Competencies * **Runtime & Framework:** Enterprise-grade API
-development using **Node.js** and **Express.js** with clean, modular architecture. *
-**Database Management:** Schema design, querying, and optimization for relational and nonrelational systems to ensure data persistence, security, and integrity. * **AI Integration &
-Manipulation:** Integrating LLMs and cognitive APIs, structuring dynamic prompt pipelines, and
+## 🛠️ Core Tech Stack & Competencies 
+
+**Runtime & Framework:** Enterprise-grade API development using **Node.js** and **Express.js** with clean, modular architecture. 
+**Database Management:** Schema design, querying, and optimization for relational and nonrelational systems to ensure data persistence, security, and integrity. 
+**AI Integration & Manipulation:** Integrating LLMs and cognitive APIs, structuring dynamic prompt pipelines, and
 parsing AI responses for automated backend workflows. --- 
 
 ## 📁 Key Focus Areas 

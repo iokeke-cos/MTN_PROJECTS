@@ -1,0 +1,35 @@
+{
+  "name": "posts-api",
+  "version": "1.0.0",
+  "description": "Welcome to the central repository for backend\r services, APIs, and integration workflows developed during my software engineering internship\r at **MTN Nigeria Communications**. This repository showcases hands-on experience in\r building scalable, production-ready backend architectures, managing high-throughput data\r flows, and implementing modern AI tools within a corporate telecommunications context.",
+  "homepage": "https://github.com/iokeke-cos/POSTS-API#readme",
+  "bugs": {
+    "url": "https://github.com/iokeke-cos/POSTS-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iokeke-cos/POSTS-API.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "CRUD.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "mongodb": "^6.18.0",
+    "mongoose": "^8.17.2",
+    "morgan": "^1.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "keywords": []
+}
